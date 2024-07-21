@@ -7,7 +7,7 @@ export default defineUserConfig({
   lang: 'en-US',
 
   title: '这是我的标题',
-  description: 'My first VuePress Site',
+  description: '这是我的第一个vuepress博客',
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',

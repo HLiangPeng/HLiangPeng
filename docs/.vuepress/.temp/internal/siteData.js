@@ -1,14 +1,1 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"这是我的标题\",\"description\":\"My first VuePress Site\",\"head\":[],\"locales\":{}}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSiteData) {
-    __VUE_HMR_RUNTIME__.updateSiteData(siteData)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ siteData }) => {
-    __VUE_HMR_RUNTIME__.updateSiteData(siteData)
-  })
-}
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"这是我的标题\",\"description\":\"这是我的第一个vuepress博客\",\"head\":[],\"locales\":{}}")
