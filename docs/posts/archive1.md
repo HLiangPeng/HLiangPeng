@@ -1,5 +1,5 @@
 ---
-date: 1998-01-01
+date: 2024-07-21
 category:
   - History
 tag:
@@ -9,9 +9,9 @@ archive: true
 
 # Archive Article1
 
-## Heading 2
+## 标题1
 
-Here is the content.
+这是内容
 
 ### Heading 3
 

@@ -1,5 +1,5 @@
 ---
-date: 2020-01-01
+date: 2024-07-21
 category:
   - CategoryC
 tag:
@@ -7,9 +7,9 @@ tag:
 sticky: 10
 ---
 
-# 这是黏性布局
+# VuePress学习
 
-Excerpt information which is added manually.
+学习VuePress基础使用
 
 <!-- more -->
 

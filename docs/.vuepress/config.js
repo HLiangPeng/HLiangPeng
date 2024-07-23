@@ -15,7 +15,7 @@ export default defineUserConfig({
     navbar: [
       '/',
       {
-        text: 'Article',
+        text: '文章',
         link: '/article/',
       },
       {

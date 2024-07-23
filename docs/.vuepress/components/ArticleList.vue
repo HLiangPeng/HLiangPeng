@@ -54,6 +54,7 @@ defineProps({
 .article-wrapper {
   @include mixins.content_wrapper;
   text-align: center;
+  padding-top: var(--navbar-height);
 }
 
 .article {
