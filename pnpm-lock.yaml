@@ -7274,7 +7274,7 @@ snapshots:
 
   debug@3.2.7(supports-color@6.1.0):
     dependencies:
-      ms: 2.1.3
+      ms: 2.1.2
     optionalDependencies:
       supports-color: 6.1.0
 
