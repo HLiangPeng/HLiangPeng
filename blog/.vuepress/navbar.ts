@@ -9,6 +9,15 @@ export default navbar([
     prefix: "/posts/",
     children: [
       {
+        text: "vuepress",
+        icon: "pen-to-square",
+        prefix: "vuepress/",
+        children: [
+          { text: "vuepress搭建、部署", icon: "pen-to-square", link: "vuepress搭建、部署" },
+          { text: "vuepress-theme-hope入门使用", icon: "pen-to-square", link: "vuepress-theme-hope入门使用" }
+        ],
+      },
+      {
         text: "苹果",
         icon: "pen-to-square",
         prefix: "apple/",

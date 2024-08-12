@@ -4,20 +4,21 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "", // 当前网站部署到的域名
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "hlp", // 作者姓名
+    url: "https://hliangpeng.github.io/",
+    email: "865225435@qq.com"
   },
-
+  // 字体图标资源链接，支持 'iconify' 'fontawesome' 和 'fontawesome-with-brands' 关键字。
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "hlplogo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "HLiangPeng/HLiangPeng.github.io/tree/main",
 
-  docsDir: "src",
+  // docsDir: "src",
 
   // 导航栏
   navbar,

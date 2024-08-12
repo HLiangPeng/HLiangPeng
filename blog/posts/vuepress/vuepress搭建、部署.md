@@ -3,11 +3,12 @@ cover: /assets/images/cover2.jpg
 icon: pen-to-square
 date: 2024-07-31
 category:
-  - VuePress2
+  - VuePress
 tag:
   - VuePress2
   - git
   - vite
+  - vuepress-theme-hope
 star: true
 sticky: true
 ---
